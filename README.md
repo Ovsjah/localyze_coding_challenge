@@ -15,7 +15,7 @@ $ cd localyze_coding_challenge
 4. To run challenge-4
     1. `nvm install --lts` installs the latest node
     2. `nvm use --lts` ensure using of latest node
-    2. `cd liv/localyze_coding_challenge/challenge-4`
+    2. `cd lib/localyze_coding_challenge/challenge-4`
     3. `yarn install`
     4. `yarn start`
     5. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
