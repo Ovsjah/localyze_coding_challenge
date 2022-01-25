@@ -1,0 +1,36 @@
+.App {
+  font-family: Inconsolata, Arial, Helvetica;
+  font-size: 20px;
+}
+
+.search {
+  text-align: center;
+}
+
+.search input {
+  margin: 20px;
+  width: 400px;
+  height: 35px;
+  font-size: 20px;
+  padding-left: 10px;
+  border-radius: 15px;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.column {
+  margin: 10px;
+  background-color: silver;
+  border-radius: 15px;
+}
+
+dl {
+  /* margin: 5px 10px; */
+  padding: 10px 20px;
+}
